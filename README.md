@@ -1,6 +1,7 @@
 # React Mpesa Stk Push App
 
 This is a React application for initiating Mpesa Stk Push transactions. It utilizes the Mpesa Stk Push API to submit transactions and provides real-time status updates through recursive validation.
+ This application uses Axios for making HTTP requests. Be sure to install a stable version before running it. Node V16+ also work well. Also test your API in Postman for visual data monitoring.
 
 ## Features
 
